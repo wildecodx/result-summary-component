@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Untitled](https://github.com/wildecodx/result-summary-component/assets/130340385/9d230ff6-e1c6-4a3e-95b9-7476fddc08e1)
-![Untitled](https://github.com/wildecodx/result-summary-component/assets/130340385/b718b858-9447-4411-b9ca-7bb4f36f0218)
+
 
 ### Built with
 
