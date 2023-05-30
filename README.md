@@ -25,7 +25,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
+![Untitled](https://github.com/wildecodx/result-summary-component/assets/130340385/1a9af1c6-3d20-4f52-8090-d6cb64922086)
 
 
 ### Built with
